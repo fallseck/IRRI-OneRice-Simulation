@@ -23,7 +23,7 @@ nProgBrn = 120
 nStg1 = 25
 nStg2 = 600
 nStg3 = 50
-nBrn = 40
+nBrn = 40#
 
 # Breeding parameters -------
 Cohort5Y = 5
@@ -36,13 +36,13 @@ nParents = 40
 nCross = 30
 nProg = 240
 nFamOYT = 40
-nFamEST = 6
+nFamEST = 7
 nAYT = 30 
 
 # Variance components -------
 genMean = 0 
 genVar = 1
-varGxY = c(0,4,8) #c(1,2,3,5,6,7)
+varGxY = c(0,4,8) #c(1,2,3)
 plantH2 = 0.001
 plotH2 = 0.10
 Fixeff = 1L
