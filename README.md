@@ -15,6 +15,6 @@ The main objective of this simulation was to evaluate the performance of the One
 
 
 # Software used:
-R Core Team (2021). Copyright (C) 2024 The R Foundation for Statistical Computing Platform: R version 4.4.0 (2024-04-24)
-AlphaSimR program (CRAN - Package AlphaSimR version 1.5.3) (Gaynor et al., 2023). Breeding Program Simulations 
+R Core Team (2021). Copyright (C) 2021 The R Foundation for Statistical Computing Platform: R version 4.1.0 (2021-05-18)
+AlphaSimR program (Gaynor et al., 2023). Breeding Program Simulations (CRAN - Package AlphaSimR version 1.5.3). 
 HPC MESO@LR-Platform at the University of Montpellier.
